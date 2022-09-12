@@ -1,1 +1,48 @@
-xy
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(225, 245, 220);
+}
+
+.card
+{
+    text-align: center;
+}
+
+input
+{
+    text-align: center;
+    width: 20%;
+    height: 30px;
+}
+
+input:focus
+{
+    background-color: rgb(135, 135, 222);
+}
+
+button
+{
+    width: 130px;
+    height: 30px;
+    border-radius: 20px;
+    background-color:rgb(64, 224, 149);
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(255, 217, 196);
+}
+
+table
+{
+    margin: auto;
+    border-collapse: collapse;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.table1{
+    text-align: center;
+}
